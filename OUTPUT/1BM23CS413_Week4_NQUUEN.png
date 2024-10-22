@@ -1,0 +1,203 @@
+Restart 1: Initial State [3, 2, 1, 0] with cost: 6
+
+Neighbor States and Costs:
+State: [0, 2, 1, 0] | Cost: 4
+State: [1, 2, 1, 0] | Cost: 5
+State: [2, 2, 1, 0] | Cost: 4
+State: [3, 0, 1, 0] | Cost: 5
+State: [3, 1, 1, 0] | Cost: 4
+State: [3, 3, 1, 0] | Cost: 4
+State: [3, 2, 0, 0] | Cost: 4
+State: [3, 2, 2, 0] | Cost: 4
+State: [3, 2, 3, 0] | Cost: 5
+State: [3, 2, 1, 1] | Cost: 4
+State: [3, 2, 1, 2] | Cost: 5
+State: [3, 2, 1, 3] | Cost: 4
+
+Move to state: [0, 2, 1, 0] with cost: 4
+
+Neighbor States and Costs:
+State: [1, 2, 1, 0] | Cost: 5
+State: [2, 2, 1, 0] | Cost: 4
+State: [3, 2, 1, 0] | Cost: 6
+State: [0, 0, 1, 0] | Cost: 5
+State: [0, 1, 1, 0] | Cost: 4
+State: [0, 3, 1, 0] | Cost: 2
+State: [0, 2, 0, 0] | Cost: 4
+State: [0, 2, 2, 0] | Cost: 4
+State: [0, 2, 3, 0] | Cost: 3
+State: [0, 2, 1, 1] | Cost: 2
+State: [0, 2, 1, 2] | Cost: 3
+State: [0, 2, 1, 3] | Cost: 2
+
+Move to state: [0, 3, 1, 0] with cost: 2
+
+Neighbor States and Costs:
+State: [1, 3, 1, 0] | Cost: 2
+State: [2, 3, 1, 0] | Cost: 2
+State: [3, 3, 1, 0] | Cost: 4
+State: [0, 0, 1, 0] | Cost: 5
+State: [0, 1, 1, 0] | Cost: 4
+State: [0, 2, 1, 0] | Cost: 4
+State: [0, 3, 0, 0] | Cost: 3
+State: [0, 3, 2, 0] | Cost: 3
+State: [0, 3, 3, 0] | Cost: 2
+State: [0, 3, 1, 1] | Cost: 2
+State: [0, 3, 1, 2] | Cost: 1
+State: [0, 3, 1, 3] | Cost: 2
+
+Move to state: [0, 3, 1, 2] with cost: 1
+
+Neighbor States and Costs:
+State: [1, 3, 1, 2] | Cost: 2
+State: [2, 3, 1, 2] | Cost: 3
+State: [3, 3, 1, 2] | Cost: 3
+State: [0, 0, 1, 2] | Cost: 4
+State: [0, 1, 1, 2] | Cost: 3
+State: [0, 2, 1, 2] | Cost: 3
+State: [0, 3, 0, 2] | Cost: 1
+State: [0, 3, 2, 2] | Cost: 3
+State: [0, 3, 3, 2] | Cost: 2
+State: [0, 3, 1, 0] | Cost: 2
+State: [0, 3, 1, 1] | Cost: 2
+State: [0, 3, 1, 3] | Cost: 2
+
+Final State: [0, 3, 1, 2] with cost: 1
+Restart 2: Initial State [2, 1, 3, 2] with cost: 3
+
+Neighbor States and Costs:
+State: [0, 1, 3, 2] | Cost: 2
+State: [1, 1, 3, 2] | Cost: 3
+State: [3, 1, 3, 2] | Cost: 2
+State: [2, 0, 3, 2] | Cost: 3
+State: [2, 2, 3, 2] | Cost: 5
+State: [2, 3, 3, 2] | Cost: 4
+State: [2, 1, 0, 2] | Cost: 4
+State: [2, 1, 1, 2] | Cost: 4
+State: [2, 1, 2, 2] | Cost: 5
+State: [2, 1, 3, 0] | Cost: 1
+State: [2, 1, 3, 1] | Cost: 2
+State: [2, 1, 3, 3] | Cost: 3
+
+Move to state: [2, 1, 3, 0] with cost: 1
+
+Neighbor States and Costs:
+State: [0, 1, 3, 0] | Cost: 2
+State: [1, 1, 3, 0] | Cost: 2
+State: [3, 1, 3, 0] | Cost: 2
+State: [2, 0, 3, 0] | Cost: 1
+State: [2, 2, 3, 0] | Cost: 3
+State: [2, 3, 3, 0] | Cost: 2
+State: [2, 1, 0, 0] | Cost: 4
+State: [2, 1, 1, 0] | Cost: 3
+State: [2, 1, 2, 0] | Cost: 3
+State: [2, 1, 3, 1] | Cost: 2
+State: [2, 1, 3, 2] | Cost: 3
+State: [2, 1, 3, 3] | Cost: 3
+
+Final State: [2, 1, 3, 0] with cost: 1
+Restart 3: Initial State [0, 2, 0, 1] with cost: 2
+
+Neighbor States and Costs:
+State: [1, 2, 0, 1] | Cost: 3
+State: [2, 2, 0, 1] | Cost: 3
+State: [3, 2, 0, 1] | Cost: 2
+State: [0, 0, 0, 1] | Cost: 4
+State: [0, 1, 0, 1] | Cost: 5
+State: [0, 3, 0, 1] | Cost: 3
+State: [0, 2, 1, 1] | Cost: 2
+State: [0, 2, 2, 1] | Cost: 3
+State: [0, 2, 3, 1] | Cost: 1
+State: [0, 2, 0, 0] | Cost: 4
+State: [0, 2, 0, 2] | Cost: 2
+State: [0, 2, 0, 3] | Cost: 2
+
+Move to state: [0, 2, 3, 1] with cost: 1
+
+Neighbor States and Costs:
+State: [1, 2, 3, 1] | Cost: 4
+State: [2, 2, 3, 1] | Cost: 2
+State: [3, 2, 3, 1] | Cost: 3
+State: [0, 0, 3, 1] | Cost: 1
+State: [0, 1, 3, 1] | Cost: 2
+State: [0, 3, 3, 1] | Cost: 2
+State: [0, 2, 0, 1] | Cost: 2
+State: [0, 2, 1, 1] | Cost: 2
+State: [0, 2, 2, 1] | Cost: 3
+State: [0, 2, 3, 0] | Cost: 3
+State: [0, 2, 3, 2] | Cost: 3
+State: [0, 2, 3, 3] | Cost: 3
+
+Final State: [0, 2, 3, 1] with cost: 1
+Restart 4: Initial State [2, 1, 3, 0] with cost: 1
+
+Neighbor States and Costs:
+State: [0, 1, 3, 0] | Cost: 2
+State: [1, 1, 3, 0] | Cost: 2
+State: [3, 1, 3, 0] | Cost: 2
+State: [2, 0, 3, 0] | Cost: 1
+State: [2, 2, 3, 0] | Cost: 3
+State: [2, 3, 3, 0] | Cost: 2
+State: [2, 1, 0, 0] | Cost: 4
+State: [2, 1, 1, 0] | Cost: 3
+State: [2, 1, 2, 0] | Cost: 3
+State: [2, 1, 3, 1] | Cost: 2
+State: [2, 1, 3, 2] | Cost: 3
+State: [2, 1, 3, 3] | Cost: 3
+
+Final State: [2, 1, 3, 0] with cost: 1
+Restart 5: Initial State [1, 0, 1, 2] with cost: 5
+
+Neighbor States and Costs:
+State: [0, 0, 1, 2] | Cost: 4
+State: [2, 0, 1, 2] | Cost: 4
+State: [3, 0, 1, 2] | Cost: 4
+State: [1, 1, 1, 2] | Cost: 4
+State: [1, 2, 1, 2] | Cost: 5
+State: [1, 3, 1, 2] | Cost: 2
+State: [1, 0, 0, 2] | Cost: 3
+State: [1, 0, 2, 2] | Cost: 3
+State: [1, 0, 3, 2] | Cost: 4
+State: [1, 0, 1, 0] | Cost: 5
+State: [1, 0, 1, 1] | Cost: 5
+State: [1, 0, 1, 3] | Cost: 3
+
+Move to state: [1, 3, 1, 2] with cost: 2
+
+Neighbor States and Costs:
+State: [0, 3, 1, 2] | Cost: 1
+State: [2, 3, 1, 2] | Cost: 3
+State: [3, 3, 1, 2] | Cost: 3
+State: [1, 0, 1, 2] | Cost: 5
+State: [1, 1, 1, 2] | Cost: 4
+State: [1, 2, 1, 2] | Cost: 5
+State: [1, 3, 0, 2] | Cost: 0
+State: [1, 3, 2, 2] | Cost: 2
+State: [1, 3, 3, 2] | Cost: 3
+State: [1, 3, 1, 0] | Cost: 2
+State: [1, 3, 1, 1] | Cost: 4
+State: [1, 3, 1, 3] | Cost: 2
+
+Move to state: [1, 3, 0, 2] with cost: 0
+
+Neighbor States and Costs:
+State: [0, 3, 0, 2] | Cost: 1
+State: [2, 3, 0, 2] | Cost: 3
+State: [3, 3, 0, 2] | Cost: 1
+State: [1, 0, 0, 2] | Cost: 3
+State: [1, 1, 0, 2] | Cost: 2
+State: [1, 2, 0, 2] | Cost: 2
+State: [1, 3, 1, 2] | Cost: 2
+State: [1, 3, 2, 2] | Cost: 2
+State: [1, 3, 3, 2] | Cost: 3
+State: [1, 3, 0, 0] | Cost: 1
+State: [1, 3, 0, 1] | Cost: 3
+State: [1, 3, 0, 3] | Cost: 1
+
+Final State: [1, 3, 0, 2] with cost: 0
+
+Solution found:
+. Q . . 
+. . . Q 
+Q . . . 
+. . Q . 
